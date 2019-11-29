@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Created with matplotlib (https://matplotlib.org/) -->
-<svg height="78.0314pt" version="1.1" viewBox="0 0 157.11614 78.0314" width="157.11614pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="78.0314pt" version="1.1" viewBox="0 0 148.93496 78.0314" width="148.93496pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
 *{stroke-linecap:butt;stroke-linejoin:round;}
@@ -11,21 +11,21 @@
  <g id="figure_1">
   <g id="patch_1">
    <path d="M 0 78.0314 
-L 157.11614 78.0314 
-L 157.11614 0 
+L 148.93496 78.0314 
+L 148.93496 0 
 L 0 0 
 z
 " style="fill:#ffffff;"/>
   </g>
   <g id="axes_1">
    <g id="line2d_1">
-    <path clip-path="url(#p87f72f27d7)" d="M 122.64554 43.5608 
-L 145.37104 43.5608 
+    <path clip-path="url(#p4db0ef9b57)" d="M 114.46436 43.5608 
+L 137.18986 43.5608 
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:2;"/>
    </g>
    <g id="text_1">
-    <g clip-path="url(#p87f72f27d7)">
-     <!-- $q_{A, t}$ -->
+    <g clip-path="url(#p4db0ef9b57)">
+     <!-- $q_{A,t}$ -->
      <defs>
       <path d="M 41.703125 8.203125 
 Q 38.09375 3.46875 33.171875 1.015625 
@@ -103,7 +103,7 @@ L 24.3125 54.6875
 z
 " id="DejaVuSans-Oblique-116"/>
      </defs>
-     <g transform="translate(70.99504 47.361777)scale(0.1625 -0.1625)">
+     <g transform="translate(62.81386 47.361777)scale(0.1625 -0.1625)">
       <use xlink:href="#DejaVuSans-Oblique-113"/>
       <use transform="translate(63.476562 -16.40625)scale(0.7)" xlink:href="#DejaVuSans-Oblique-65"/>
       <use transform="translate(111.362305 -16.40625)scale(0.7)" xlink:href="#DejaVuSans-44"/>
@@ -114,8 +114,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p87f72f27d7">
-   <rect height="63.6314" width="142.71614" x="7.2" y="7.2"/>
+  <clipPath id="p4db0ef9b57">
+   <rect height="63.6314" width="134.53496" x="7.2" y="7.2"/>
   </clipPath>
  </defs>
 </svg>
