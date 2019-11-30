@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.8747063mm"
+   height="4.6172824mm"
+   viewBox="0 0 34.989117 16.36045"
+   id="svg5658"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="target_qubit_Alice.svg">
+  <defs
+     id="defs5660"
+     style="stroke-linecap:butt;stroke-linejoin:round">
+    <style
+       id="style6312"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <style
+       id="style26185"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="8.5206819"
+     inkscape:cy="15.418045"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1245"
+     inkscape:window-height="755"
+     inkscape:window-x="35"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5663">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-113.72467,-139.39781)"
+     style="stroke-linecap:butt;stroke-linejoin:round">
+    <g
+       id="text_1-3"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(1.25,0,0,1.25,24.04776,91.570591)">
+      <g
+         id="g26196"
+         clip-path="url(#p87f72f27d7)"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <!-- $q_{A, t}$ -->
+        <defs
+           id="defs26198">
+          <path
+             id="DejaVuSans-Oblique-113-4"
+             d="m 41.703125,8.203125 q -3.609375,-4.734375 -8.53125,-7.1875 -4.90625,-2.4375 -10.859375,-2.4375 -8.296875,0 -13.015625,5.59375 -4.703125,5.59375 -4.703125,15.40625 0,7.90625 2.90625,15.28125 2.90625,7.375 8.328125,13.234375 3.515625,3.8125 8.078125,5.859375 Q 28.46875,56 33.5,56 q 6.046875,0 9.953125,-2.390625 3.90625,-2.390625 5.671875,-7.21875 l 1.5625,8.203125 9.03125,0 -14.59375,-75.203125 -9.046875,0 z M 13.921875,20.90625 q 0,-7.234375 3.015625,-11.015625 3.03125,-3.78125 8.75,-3.78125 8.5,0 14.5,8.125 6,8.125 6,19.75 0,7.03125 -3.109375,10.765625 -3.09375,3.734375 -8.890625,3.734375 -4.25,0 -7.875,-1.984375 -3.609375,-1.96875 -6.296875,-5.78125 -2.828125,-4 -4.46875,-9.375 -1.625,-5.359375 -1.625,-10.4375 z"
+             inkscape:connector-curvature="0"
+             style="stroke-linecap:butt;stroke-linejoin:round" />
+          <path
+             id="DejaVuSans-Oblique-65-7"
+             d="M 36.8125,72.90625 48,72.90625 61.53125,0 51.21875,0 48.1875,18.703125 l -32.8125,0 L 5.078125,0 -5.328125,0 Z M 40.375,63.1875 19.921875,26.90625 l 26.765625,0 z"
+             inkscape:connector-curvature="0"
+             style="stroke-linecap:butt;stroke-linejoin:round" />
+          <path
+             id="DejaVuSans-44-1"
+             d="m 11.71875,12.40625 10.296875,0 0,-8.40625 -8,-15.625 -6.296875,0 4,15.625 z"
+             inkscape:connector-curvature="0"
+             style="stroke-linecap:butt;stroke-linejoin:round" />
+          <path
+             id="DejaVuSans-Oblique-116-3"
+             d="m 42.28125,54.6875 -1.359375,-6.984375 -17.921875,0 -5.8125,-29.6875 q -0.296875,-1.65625 -0.4375,-2.78125 -0.140625,-1.125 -0.140625,-1.75 0,-3.125 1.875,-4.546875 1.875,-1.421875 6.03125,-1.421875 l 9.078125,0 L 32.078125,0 23.484375,0 q -8,0 -11.9375,3.125 Q 7.625,6.25 7.625,12.59375 q 0,1.125 0.140625,2.46875 0.140625,1.34375 0.4375,2.953125 l 5.8125,29.6875 -7.625,0 1.421875,6.984375 7.46875,0 3.03125,15.53125 8.984375,0 L 24.3125,54.6875 Z"
+             inkscape:connector-curvature="0"
+             style="stroke-linecap:butt;stroke-linejoin:round" />
+        </defs>
+        <g
+           id="g26204"
+           transform="matrix(0.1625,0,0,-0.1625,70.99504,47.361777)"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <use
+             id="use26206"
+             xlink:href="#DejaVuSans-Oblique-113-4"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use26208"
+             xlink:href="#DejaVuSans-Oblique-65-7"
+             transform="matrix(0.7,0,0,0.7,63.476562,-16.40625)"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use26210"
+             xlink:href="#DejaVuSans-44-1"
+             transform="matrix(0.7,0,0,0.7,111.36231,-16.40625)"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use26212"
+             xlink:href="#DejaVuSans-Oblique-116-3"
+             transform="matrix(0.7,0,0,0.7,147.25098,-16.40625)"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
