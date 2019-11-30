@@ -10,14 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="205.05858mm"
-   height="83.450386mm"
-   viewBox="0 0 726.58558 295.69034"
+   width="393.60132mm"
+   height="83.820007mm"
+   viewBox="0 0 1394.6505 297.00002"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="figures.svg"
-   inkscape:export-filename="/Users/adrianauer/Documents/Learning/Qiskit/ibmqawards/images/fig01.png"
+   inkscape:export-filename="/Users/adrianauer/Documents/Learning/Qiskit/ibmqawards/images/fig04.png"
    inkscape:export-xdpi="89.599998"
    inkscape:export-ydpi="89.599998">
   <defs
@@ -1117,8 +1117,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="725.30466"
-     inkscape:cy="276.60638"
+     inkscape:cx="723.27925"
+     inkscape:cy="274.58112"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1137,8 +1137,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid4800"
-       originx="118.15917"
-       originy="621.43065" />
+       originx="116.13377"
+       originy="619.40557" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1156,21 +1156,21 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(118.15919,-1378.1028)"
+     transform="translate(116.13379,-1374.7677)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.42479277;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6329"
        width="1394.2764"
-       height="348.07922"
+       height="352.00003"
        x="-1249.9227"
-       y="1840.3153"
+       y="1836.3949"
        transform="scale(-1,1)" />
     <rect
        transform="scale(-1,1)"
-       y="1380.1284"
+       y="1374.7677"
        x="-1278.5166"
-       height="291.63928"
+       height="297.00003"
        width="1394.6504"
        id="rect6331"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.05074739;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -1178,18 +1178,18 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.14541507;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6333"
        width="1395.5558"
-       height="175.7316"
+       height="180.00002"
        x="-1322.7159"
-       y="1019.675"
+       y="1015.4066"
        transform="scale(-1,1)" />
     <rect
        transform="scale(-1,1)"
-       y="687.67505"
+       y="683.40668"
        x="-1351.1228"
-       height="175.73161"
+       height="180.00002"
        width="1395.5558"
        id="rect6335"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.14541531;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.14541531;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4802"
