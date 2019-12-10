@@ -7,22 +7,22 @@ After a brief introduction to the topic itself, we will give a detailed descript
 
 ## Contents
 
-* **Part I: Introduction to Entanglement Purification and the BBPSSW Protocol**
+* Part I: Introduction to Entanglement Purification and the BBPSSW Protocol
   
   
-* **Part II: Implementation of Quantum Circuit for BBPSSW Protocol in Qiskit**
+* Part II: Implementation of Quantum Circuit for BBPSSW Protocol in Qiskit
   
   
-* **Part III: Simulation of the BBPSSW Protocol using Qiskit**
+* Part III: Simulation of the BBPSSW Protocol using Qiskit
 
 
-* **Part IV: Including Noise in the Simulation Model**
+* Part IV: Including Noise in the Simulation Model
 
 
-* **Part V: Entanglement Purification on a Real IBM Q Device**
+* Part V: Entanglement Purification on a Real IBM Q Device
 
 
-* **Part VI: Conclusion and Further Ideas**
+* Part VI: Conclusion and Further Ideas
 
 ## Learning Objectives
 
